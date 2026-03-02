@@ -1,0 +1,7 @@
+{
+  "name": "PhotoMap Explorer",
+  "description": "A photo management app that maps your memories based on geo-location and brings them to life with AI animation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
